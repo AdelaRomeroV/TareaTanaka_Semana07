@@ -10,6 +10,8 @@ namespace Figuras_Tarea07
     {
         static void Main(string[] args)
         {
+            Problemas problemas = new Problemas();
+            problemas.Start();
         }
     }
 }
